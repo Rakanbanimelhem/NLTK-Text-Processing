@@ -6,7 +6,9 @@ Natural Language Processing (NLP): The discipline of computer science, artificia
 Sentiment Analysis: It is the interpretation and classification of emotions (positive, negative, and neutral) within text data using text analysis techniques. Sentiment analysis allows organizations to identify public sentiment towards certain words or topics.
 
 ## Dataset 
-The dataset being used is the sentiment140 dataset. It contains 1,600,000 tweets extracted using the Twitter API. The tweets have been annotated (0 = Negative, 4 = Positive) and they can be used to detect sentiment.
+The dataset being used is the sentiment140 dataset. It contains 1,600,000 tweets extracted using the Twitter API. The tweets have been annotated (0 = Negative, 4 = Positive) and they can be used to detect sentiment. 
+
+Data Source: https://www.kaggle.com/code/paoloripamonti/twitter-sentiment-analysis/data
 
 sentiment: the polarity of the tweet (0 = negative, 4 = positive)
 ids: The id of the tweet (2087)
